@@ -1,0 +1,13 @@
+svg.country {
+  padding: 5px
+}
+
+polygon.territory {
+  stroke: black;
+  stroke-width: 3;
+  stroke-linejoin: round;
+}
+
+.territory {
+  font-family: "Arial";
+}
